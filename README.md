@@ -14,9 +14,9 @@
 ## Contents
 
 - ~~[About](#about)~~
-- [Curricular Guideline](#curricular-guideline)
-- [How to use this guide](#how-to-use-this-guide)
-- [Community](#community)
+- ~~[Curricular Guideline](#curricular-guideline)~~
+- ~~[How to use this guide](#how-to-use-this-guide)~~
+- ~~[Community](#community)~~
 - [Prerequisites](#prerequisites)
 - [Curriculum](#curriculum)
 - [How to contribute](#how-to-contribute)
