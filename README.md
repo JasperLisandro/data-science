@@ -13,7 +13,7 @@
 
 ## Contents
 
-- [About](#about)
+- ~~[About](#about)~~
 - [Curricular Guideline](#curricular-guideline)
 - [How to use this guide](#how-to-use-this-guide)
 - [Community](#community)
